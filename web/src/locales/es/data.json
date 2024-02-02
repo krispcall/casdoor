@@ -36,6 +36,8 @@
     "Enable SAML C14N10 - Tooltip": "Enable SAML C14N10 - Tooltip",
     "Enable SAML compression": "Activar la compresión SAML",
     "Enable SAML compression - Tooltip": "Si comprimir o no los mensajes de respuesta SAML cuando se utiliza Casdoor como proveedor de identidad SAML",
+    "Enable SAML POST binding": "Enable SAML POST binding",
+    "Enable SAML POST binding - Tooltip": "The HTTP POST binding uses input fields in a HTML form to send SAML messages, Enable when your SP use it",
     "Enable side panel": "Habilitar panel lateral",
     "Enable signin session - Tooltip": "Si Casdoor mantiene una sesión después de iniciar sesión en Casdoor desde la aplicación",
     "Enable signup": "Habilitar registro",
